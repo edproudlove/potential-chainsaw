@@ -7,6 +7,10 @@ import pymunk
 CROSSOVER_RATE = 0.2
 MUTATION_RATE = 0.05
 
+#this is a test
+
+#this is another one 
+
 def normalise_and_prep(state):
     norm_pos = state[0] / 800 
     norm_velocity = state[1] / 1500

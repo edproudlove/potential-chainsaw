@@ -11,6 +11,8 @@ MUTATION_RATE = 0.05
 
 #this is another one 
 
+#making another edit
+
 def normalise_and_prep(state):
     norm_pos = state[0] / 800 
     norm_velocity = state[1] / 1500
